@@ -1,11 +1,11 @@
 # DC-EXPERIMENT08
 ##AIM:
-To calculate the entropy, average codeword length, efficiency, redundancy, and variance of a given source using Huffman or Shannon-Fano coding.
+  To calculate the entropy, average codeword length, efficiency, redundancy, and variance of a given source using Huffman or Shannon-Fano coding.
 ##APPARATUS REQUIRED:
-1.Python 3.x installed
-2.GitHub account
-3.Git installed
-4.VS Code / any IDE
+   1.Python 3.x installed
+   2.GitHub account
+   3.Git installed
+   4.VS Code / any IDE
 ##PROCEDURE:
 1.Start the Python environment: Open any Python IDE or terminal with Python installed.
 2.Create a Python file: Name it as source_coding_analysis.py.
