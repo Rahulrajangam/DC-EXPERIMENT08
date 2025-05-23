@@ -23,6 +23,7 @@
   Variance (σ²)
 
 ## CODE:
+```
 HUFFMAN and SHANON-FANO
 import numpy as np
 import math 
@@ -57,6 +58,7 @@ print(f"Entropy is : {hs}")
 print(f"Efficiency is : {eff}")
 print(f"Redudancy is : {red}")
 print(f"Variance is : {var}")
+```
 
 ## SAMPLE INPUT/OUTPUT:
 ![image](https://github.com/user-attachments/assets/d0dc5062-6e3c-425a-9c3f-c2f90131f691)
